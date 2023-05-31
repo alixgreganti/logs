@@ -1,0 +1,350 @@
+scripts.62139ffaed5ea91b.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'fn')
+    at scripts.62139ffaed5ea91b.js:1:2400
+    at scripts.62139ffaed5ea91b.js:1:191
+    at scripts.62139ffaed5ea91b.js:1:237
+(anonymous) @ scripts.62139ffaed5ea91b.js:1
+(anonymous) @ scripts.62139ffaed5ea91b.js:1
+(anonymous) @ scripts.62139ffaed5ea91b.js:1
+main.86ead9b92b7ffe11.js:1 DEPRECATED: DI is instantiating a token "ns" that inherits its @Injectable decorator but does not provide one itself.
+This will become an error in a future version of Angular. Please add @Injectable() to the "ns" class.
+Ke @ main.86ead9b92b7ffe11.js:1
+ly @ main.86ead9b92b7ffe11.js:1
+Kc @ main.86ead9b92b7ffe11.js:1
+kh @ main.86ead9b92b7ffe11.js:1
+cy @ main.86ead9b92b7ffe11.js:1
+processProvider @ main.86ead9b92b7ffe11.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+Zc @ main.86ead9b92b7ffe11.js:1
+Zc @ main.86ead9b92b7ffe11.js:1
+Eh @ main.86ead9b92b7ffe11.js:1
+zh @ main.86ead9b92b7ffe11.js:1
+hm @ main.86ead9b92b7ffe11.js:1
+create @ main.86ead9b92b7ffe11.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+onInvoke @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+run @ polyfills.4fffa040c51a3574.js:1
+run @ main.86ead9b92b7ffe11.js:1
+bootstrapModuleFactory @ main.86ead9b92b7ffe11.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+run @ polyfills.4fffa040c51a3574.js:1
+(anonymous) @ polyfills.4fffa040c51a3574.js:1
+invokeTask @ polyfills.4fffa040c51a3574.js:1
+runTask @ polyfills.4fffa040c51a3574.js:1
+L @ polyfills.4fffa040c51a3574.js:1
+Promise.then (async)
+d @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleMicroTask @ polyfills.4fffa040c51a3574.js:1
+F @ polyfills.4fffa040c51a3574.js:1
+then @ polyfills.4fffa040c51a3574.js:1
+bootstrapModule @ main.86ead9b92b7ffe11.js:1
+5108 @ main.86ead9b92b7ffe11.js:1
+r @ runtime.5e1e35ead435d689.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+f @ runtime.5e1e35ead435d689.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+main.86ead9b92b7ffe11.js:1 deprecation notice
+
+the socket.service has been removed, as the feature is now being handled by auxilium-connect api version.  use `apiService.socket` instead!
+
+
+K @ main.86ead9b92b7ffe11.js:1
+K.ɵfac @ main.86ead9b92b7ffe11.js:1
+o @ main.86ead9b92b7ffe11.js:1
+hydrate @ main.86ead9b92b7ffe11.js:1
+get @ main.86ead9b92b7ffe11.js:1
+Xt @ main.86ead9b92b7ffe11.js:1
+ln @ main.86ead9b92b7ffe11.js:1
+useValue @ main.86ead9b92b7ffe11.js:1
+resolveInjectorInitializers @ main.86ead9b92b7ffe11.js:1
+hm @ main.86ead9b92b7ffe11.js:1
+create @ main.86ead9b92b7ffe11.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+onInvoke @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+run @ polyfills.4fffa040c51a3574.js:1
+run @ main.86ead9b92b7ffe11.js:1
+bootstrapModuleFactory @ main.86ead9b92b7ffe11.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+run @ polyfills.4fffa040c51a3574.js:1
+(anonymous) @ polyfills.4fffa040c51a3574.js:1
+invokeTask @ polyfills.4fffa040c51a3574.js:1
+runTask @ polyfills.4fffa040c51a3574.js:1
+L @ polyfills.4fffa040c51a3574.js:1
+Promise.then (async)
+d @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleMicroTask @ polyfills.4fffa040c51a3574.js:1
+F @ polyfills.4fffa040c51a3574.js:1
+then @ polyfills.4fffa040c51a3574.js:1
+bootstrapModule @ main.86ead9b92b7ffe11.js:1
+5108 @ main.86ead9b92b7ffe11.js:1
+r @ runtime.5e1e35ead435d689.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+f @ runtime.5e1e35ead435d689.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+main.86ead9b92b7ffe11.js:1 ALERT *************************
+
+please ensure you disconnect the old repository `rm -rf ./.git` before committing to
+
+
+K @ main.86ead9b92b7ffe11.js:1
+K.ɵfac @ main.86ead9b92b7ffe11.js:1
+o @ main.86ead9b92b7ffe11.js:1
+hydrate @ main.86ead9b92b7ffe11.js:1
+get @ main.86ead9b92b7ffe11.js:1
+Xt @ main.86ead9b92b7ffe11.js:1
+ln @ main.86ead9b92b7ffe11.js:1
+useValue @ main.86ead9b92b7ffe11.js:1
+resolveInjectorInitializers @ main.86ead9b92b7ffe11.js:1
+hm @ main.86ead9b92b7ffe11.js:1
+create @ main.86ead9b92b7ffe11.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+onInvoke @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+run @ polyfills.4fffa040c51a3574.js:1
+run @ main.86ead9b92b7ffe11.js:1
+bootstrapModuleFactory @ main.86ead9b92b7ffe11.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+run @ polyfills.4fffa040c51a3574.js:1
+(anonymous) @ polyfills.4fffa040c51a3574.js:1
+invokeTask @ polyfills.4fffa040c51a3574.js:1
+runTask @ polyfills.4fffa040c51a3574.js:1
+L @ polyfills.4fffa040c51a3574.js:1
+Promise.then (async)
+d @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleMicroTask @ polyfills.4fffa040c51a3574.js:1
+F @ polyfills.4fffa040c51a3574.js:1
+then @ polyfills.4fffa040c51a3574.js:1
+bootstrapModule @ main.86ead9b92b7ffe11.js:1
+5108 @ main.86ead9b92b7ffe11.js:1
+r @ runtime.5e1e35ead435d689.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+f @ runtime.5e1e35ead435d689.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+node:electron/js2c/renderer_init:2 Electron Security Warning (Disabled webSecurity) This renderer process has "webSecurity" disabled. This
+  exposes users of this app to severe security risks.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged.
+(anonymous) @ node:electron/js2c/renderer_init:2
+logSecurityWarnings @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+load (async)
+securityWarnings @ node:electron/js2c/renderer_init:2
+./lib/renderer/common-init.ts @ node:electron/js2c/renderer_init:2
+__webpack_require__ @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+___electron_webpack_init__ @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+compileForInternalLoader @ node:internal/bootstrap/loaders:334
+compileForPublicLoader @ node:internal/bootstrap/loaders:270
+loadBuiltinModule @ node:internal/modules/cjs/helpers:56
+Module._load @ node:internal/modules/cjs/loader:941
+f._load @ node:electron/js2c/asar_bundle:2
+executeUserEntryPoint @ node:internal/modules/run_main:81
+(anonymous) @ node:internal/main/run_main_module:23
+node:electron/js2c/renderer_init:2 Electron Security Warning (allowRunningInsecureContent) This renderer process has "allowRunningInsecureContent"
+  enabled. This exposes users of this app to severe security risks.
+
+  
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged.
+(anonymous) @ node:electron/js2c/renderer_init:2
+logSecurityWarnings @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+load (async)
+securityWarnings @ node:electron/js2c/renderer_init:2
+./lib/renderer/common-init.ts @ node:electron/js2c/renderer_init:2
+__webpack_require__ @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+___electron_webpack_init__ @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+compileForInternalLoader @ node:internal/bootstrap/loaders:334
+compileForPublicLoader @ node:internal/bootstrap/loaders:270
+loadBuiltinModule @ node:internal/modules/cjs/helpers:56
+Module._load @ node:internal/modules/cjs/loader:941
+f._load @ node:electron/js2c/asar_bundle:2
+executeUserEntryPoint @ node:internal/modules/run_main:81
+(anonymous) @ node:internal/main/run_main_module:23
+node:electron/js2c/renderer_init:2 Electron Security Warning (Insecure Content-Security-Policy) This renderer process has either no Content Security
+  Policy set or a policy with "unsafe-eval" enabled. This exposes users of
+  this app to unnecessary security risks.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged.
+warnAboutInsecureCSP @ node:electron/js2c/renderer_init:2
+logSecurityWarnings @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+load (async)
+securityWarnings @ node:electron/js2c/renderer_init:2
+./lib/renderer/common-init.ts @ node:electron/js2c/renderer_init:2
+__webpack_require__ @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+___electron_webpack_init__ @ node:electron/js2c/renderer_init:2
+(anonymous) @ node:electron/js2c/renderer_init:2
+compileForInternalLoader @ node:internal/bootstrap/loaders:334
+compileForPublicLoader @ node:internal/bootstrap/loaders:270
+loadBuiltinModule @ node:internal/modules/cjs/helpers:56
+Module._load @ node:internal/modules/cjs/loader:941
+f._load @ node:electron/js2c/asar_bundle:2
+executeUserEntryPoint @ node:internal/modules/run_main:81
+(anonymous) @ node:internal/main/run_main_module:23
+Socket.ts:37 socket: connected 9GuEoyOTRCTivMB9ACYf
+main.86ead9b92b7ffe11.js:1 Auth {admin: {…}, hitched: {…}, assumed: false, guest: false, sysadmin: true, …}
+main.86ead9b92b7ffe11.js:1 D {rootComponentType: null, urlSerializer: ze, rootContexts: D, location: B, config: Array(9), …}
+main.86ead9b92b7ffe11.js:1 ERROR Error: Uncaught (in promise): Error: NG04002
+Error: NG04002
+    at es.noMatchError (main.86ead9b92b7ffe11.js:1:1542220)
+    at _.selector (main.86ead9b92b7ffe11.js:1:1541961)
+    at _.error (main.86ead9b92b7ffe11.js:1:743342)
+    at d._error (main.86ead9b92b7ffe11.js:1:732557)
+    at d.error (main.86ead9b92b7ffe11.js:1:732354)
+    at d._error (main.86ead9b92b7ffe11.js:1:732557)
+    at d.error (main.86ead9b92b7ffe11.js:1:732354)
+    at at._error (main.86ead9b92b7ffe11.js:1:732557)
+    at at.error (main.86ead9b92b7ffe11.js:1:732354)
+    at _._error (main.86ead9b92b7ffe11.js:1:732557)
+    at G (polyfills.4fffa040c51a3574.js:1:15902)
+    at G (polyfills.4fffa040c51a3574.js:1:15438)
+    at polyfills.4fffa040c51a3574.js:1:16748
+    at T.invokeTask (polyfills.4fffa040c51a3574.js:1:7171)
+    at Object.onInvokeTask (main.86ead9b92b7ffe11.js:1:1053478)
+    at T.invokeTask (polyfills.4fffa040c51a3574.js:1:7092)
+    at I.runTask (polyfills.4fffa040c51a3574.js:1:2566)
+    at L (polyfills.4fffa040c51a3574.js:1:9171)
+handleError @ main.86ead9b92b7ffe11.js:1
+next @ main.86ead9b92b7ffe11.js:1
+__tryOrUnsub @ main.86ead9b92b7ffe11.js:1
+next @ main.86ead9b92b7ffe11.js:1
+_next @ main.86ead9b92b7ffe11.js:1
+next @ main.86ead9b92b7ffe11.js:1
+next @ main.86ead9b92b7ffe11.js:1
+emit @ main.86ead9b92b7ffe11.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+run @ polyfills.4fffa040c51a3574.js:1
+runOutsideAngular @ main.86ead9b92b7ffe11.js:1
+onHandleError @ main.86ead9b92b7ffe11.js:1
+handleError @ polyfills.4fffa040c51a3574.js:1
+runGuarded @ polyfills.4fffa040c51a3574.js:1
+i.microtaskDrainDone @ polyfills.4fffa040c51a3574.js:1
+L @ polyfills.4fffa040c51a3574.js:1
+Promise.then (async)
+d @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+onScheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleMicroTask @ polyfills.4fffa040c51a3574.js:1
+F @ polyfills.4fffa040c51a3574.js:1
+G @ polyfills.4fffa040c51a3574.js:1
+(anonymous) @ polyfills.4fffa040c51a3574.js:1
+Promise.then (async)
+(anonymous) @ polyfills.4fffa040c51a3574.js:1
+t @ polyfills.4fffa040c51a3574.js:1
+P.l.then @ polyfills.4fffa040c51a3574.js:1
+(anonymous) @ subscribeToPromise.js:5
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable._trySubscribe @ Observable.js:43
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:29
+subscribeToResult @ subscribeToResult.js:13
+./node_modules/rxjs/_esm5/internal/operators/switchMap.js.SwitchMapSubscriber._innerSub @ switchMap.js:51
+./node_modules/rxjs/_esm5/internal/operators/switchMap.js.SwitchMapSubscriber._next @ switchMap.js:41
+./node_modules/rxjs/_esm5/internal/Subscriber.js.Subscriber.next @ Subscriber.js:53
+(anonymous) @ subscribeToPromise.js:7
+invoke @ polyfills.4fffa040c51a3574.js:1
+onInvoke @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+run @ polyfills.4fffa040c51a3574.js:1
+(anonymous) @ polyfills.4fffa040c51a3574.js:1
+invokeTask @ polyfills.4fffa040c51a3574.js:1
+onInvokeTask @ main.86ead9b92b7ffe11.js:1
+invokeTask @ polyfills.4fffa040c51a3574.js:1
+runTask @ polyfills.4fffa040c51a3574.js:1
+L @ polyfills.4fffa040c51a3574.js:1
+Promise.then (async)
+d @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+onScheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleMicroTask @ polyfills.4fffa040c51a3574.js:1
+F @ polyfills.4fffa040c51a3574.js:1
+G @ polyfills.4fffa040c51a3574.js:1
+(anonymous) @ polyfills.4fffa040c51a3574.js:1
+Promise.then (async)
+(anonymous) @ polyfills.4fffa040c51a3574.js:1
+t @ polyfills.4fffa040c51a3574.js:1
+P.l.then @ polyfills.4fffa040c51a3574.js:1
+(anonymous) @ subscribeToPromise.js:5
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable._trySubscribe @ Observable.js:43
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:29
+(anonymous) @ defer.js:16
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable._trySubscribe @ Observable.js:43
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:29
+./node_modules/rxjs/_esm5/internal/operators/switchMap.js.SwitchMapOperator.call @ switchMap.js:19
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+./node_modules/rxjs/_esm5/internal/operators/switchMap.js.SwitchMapOperator.call @ switchMap.js:19
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+./node_modules/rxjs/_esm5/internal/operators/map.js.MapOperator.call @ map.js:18
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+./node_modules/rxjs/_esm5/internal/operators/map.js.MapOperator.call @ map.js:18
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+./node_modules/rxjs/_esm5/internal/operators/tap.js.DoOperator.call @ tap.js:18
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+./node_modules/rxjs/_esm5/internal/operators/map.js.MapOperator.call @ map.js:18
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+./node_modules/rxjs/_esm5/internal/operators/switchMap.js.SwitchMapOperator.call @ switchMap.js:19
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+./node_modules/rxjs/_esm5/internal/operators/tap.js.DoOperator.call @ tap.js:18
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+call @ main.86ead9b92b7ffe11.js:1
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+call @ main.86ead9b92b7ffe11.js:1
+./node_modules/rxjs/_esm5/internal/Observable.js.Observable.subscribe @ Observable.js:24
+ngDoBootstrap @ main.86ead9b92b7ffe11.js:1
+_moduleDoBootstrap @ main.86ead9b92b7ffe11.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+onInvoke @ main.86ead9b92b7ffe11.js:1
+invoke @ polyfills.4fffa040c51a3574.js:1
+run @ polyfills.4fffa040c51a3574.js:1
+(anonymous) @ polyfills.4fffa040c51a3574.js:1
+invokeTask @ polyfills.4fffa040c51a3574.js:1
+onInvokeTask @ main.86ead9b92b7ffe11.js:1
+invokeTask @ polyfills.4fffa040c51a3574.js:1
+runTask @ polyfills.4fffa040c51a3574.js:1
+L @ polyfills.4fffa040c51a3574.js:1
+Promise.then (async)
+d @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleTask @ polyfills.4fffa040c51a3574.js:1
+scheduleMicroTask @ polyfills.4fffa040c51a3574.js:1
+F @ polyfills.4fffa040c51a3574.js:1
+then @ polyfills.4fffa040c51a3574.js:1
+bootstrapModule @ main.86ead9b92b7ffe11.js:1
+5108 @ main.86ead9b92b7ffe11.js:1
+r @ runtime.5e1e35ead435d689.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
+f @ runtime.5e1e35ead435d689.js:1
+(anonymous) @ main.86ead9b92b7ffe11.js:1
